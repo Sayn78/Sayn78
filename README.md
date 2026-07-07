@@ -11,7 +11,7 @@
 </p>
 
 <p>
-  J'accompagne les <strong>startups et PME</strong> dans le déploiement de leurs apps de A à Z —<br/>
+  J'accompagne les <strong>startups et PME</strong> dans le déploiement de leurs apps de A à Z -<br/>
   de la première ligne de Terraform jusqu'au monitoring en production.
 </p>
 
